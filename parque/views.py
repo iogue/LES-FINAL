@@ -1,4 +1,3 @@
-from tempfile import tempdir
 from django.shortcuts import get_object_or_404, redirect, render
 from django_tables2 import SingleTableView
 
